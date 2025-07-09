@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "SRPG"
             }
+          },
+          {
+            "id": "1fd28f1e6857d91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의 스크립트/1. 소개, 에셋링크(수업자료).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 소개, 에셋링크(수업자료)"
+            }
+          },
+          {
+            "id": "58d76598b59c1fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의 스크립트/2. 모든 캐릭터 에셋파일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 모든 캐릭터 에셋파일"
+            }
+          },
+          {
+            "id": "8a8566586d0b355b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자료 정리"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRPG.md",
+                "file": "자료 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SRPG 의 백링크"
+              "title": "자료 정리 의 백링크"
             }
           },
           {
@@ -167,8 +210,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "54b0a867350d4ed1",
+  "active": "8a8566586d0b355b",
   "lastOpenFiles": [
-    "SRPG.md"
+    "강의 스크립트/2. 모든 캐릭터 에셋파일.md",
+    "자료 정리.md",
+    "강의 스크립트/1. 소개, 에셋링크(수업자료).md",
+    "SRPG.md",
+    "강의 스크립트"
   ]
 }
