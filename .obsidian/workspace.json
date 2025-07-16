@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기획서/캐릭터 덱.md",
+                "file": "기획서/바닥 타일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캐릭터 덱"
+              "title": "바닥 타일"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기획서/캐릭터 덱.md",
+                "file": "기획서/바닥 타일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "캐릭터 덱 의 백링크"
+              "title": "바닥 타일 의 백링크"
             }
           },
           {
@@ -280,18 +280,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fb7f88337ac72a4d",
+  "active": "592b05993f152161",
   "lastOpenFiles": [
+    "기획서/스테이지.md",
+    "기획서/턴과 라운드 개념.md",
+    "기획서/캐릭터 덱.md",
     "img/WHUXnKzYp6.png",
     "img/tIr2B91Z6w.png",
     "img/iYHFsJ8dGU.png",
-    "기획서/스테이지.md",
-    "기획서/캐릭터 덱.md",
-    "기획서/턴과 라운드 개념.md",
     "기획서/전투 중 소환.md",
     "SRPG.md",
     "자료 정리.md",
-    "바닥 타일.md",
+    "기획서/바닥 타일.md",
     "게임에 주요 요소.md",
     "기획서/능력치.md",
     "img/0VLP1ArjE6.png",
@@ -306,7 +306,6 @@
     "img/HUPC60hM5b.png",
     "img/gqvuM4bMcN.png",
     "img/dC18dl84Y5.png",
-    "img/AUuOKYEdZe.png",
     "개발 계획/개발 계획.md",
     "개발 계획",
     "강의 스크립트/1. 소개, 에셋링크(수업자료).md",
