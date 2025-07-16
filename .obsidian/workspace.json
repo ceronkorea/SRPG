@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기획서/턴과 라운드 개념.md",
+                "file": "기획서/캐릭터 덱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "턴과 라운드 개념"
+              "title": "캐릭터 덱"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기획서/턴과 라운드 개념.md",
+                "file": "기획서/캐릭터 덱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "턴과 라운드 개념 의 백링크"
+              "title": "캐릭터 덱 의 백링크"
             }
           },
           {
@@ -282,8 +282,13 @@
   },
   "active": "fb7f88337ac72a4d",
   "lastOpenFiles": [
-    "기획서/전투 중 소환.md",
+    "img/WHUXnKzYp6.png",
+    "img/tIr2B91Z6w.png",
+    "img/iYHFsJ8dGU.png",
+    "기획서/스테이지.md",
+    "기획서/캐릭터 덱.md",
     "기획서/턴과 라운드 개념.md",
+    "기획서/전투 중 소환.md",
     "SRPG.md",
     "자료 정리.md",
     "바닥 타일.md",
@@ -302,8 +307,6 @@
     "img/gqvuM4bMcN.png",
     "img/dC18dl84Y5.png",
     "img/AUuOKYEdZe.png",
-    "img/678RCCqOSM.png",
-    "img/53g6OfBzYT.png",
     "개발 계획/개발 계획.md",
     "개발 계획",
     "강의 스크립트/1. 소개, 에셋링크(수업자료).md",
