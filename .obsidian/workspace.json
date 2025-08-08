@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRPG.md",
+                "file": "1. RPS/클라이언트/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRPG"
+              "title": "개요"
             }
           },
           {
@@ -147,8 +147,7 @@
               "title": "기획서"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a732aba14b3e14c9",
@@ -269,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. RPS/기획서/기획서.md",
+                "file": "1. RPS/클라이언트/개요.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기획서 의 개요"
+              "title": "개요 의 개요"
             }
           }
         ],
@@ -295,10 +294,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3c1df05d7a769c7c",
+  "active": "54b0a867350d4ed1",
   "lastOpenFiles": [
-    "2. SRPG/게임에 주요 요소.md",
+    "google-services 1.json.md",
+    "1. RPS/클라이언트/개요.md",
+    "img/GoogleService-Info 1.plist",
+    "img/google-services 1.json",
+    "img/GoogleService-Info.plist",
+    "img/google-services.json",
+    "img",
     "1. RPS/기획서/기획서.md",
+    "1. RPS/클라이언트",
+    "2. SRPG/게임에 주요 요소.md",
     "1. RPS/기획서",
     "1. RPS",
     "2. SRPG/자료 정리.md",
@@ -329,11 +336,7 @@
     "img/gqvuM4bMcN.png",
     "img/dC18dl84Y5.png",
     "2. SRPG/개발 계획/개발 계획.md",
-    "2. SRPG/개발 계획",
-    "2. SRPG/기획서",
     "2. SRPG/클라이언트/인프런강의 1차 완료 보고.md",
-    "2. SRPG/클라이언트",
-    "용어 정리.md",
-    "강의 스크립트"
+    "용어 정리.md"
   ]
 }

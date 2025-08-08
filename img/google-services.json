@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855408755468",
+    "project_id": "rpsroyale-bee97",
+    "storage_bucket": "rpsroyale-bee97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855408755468:android:8d2f9da91d3759423bbf29",
+        "android_client_info": {
+          "package_name": "com.bigjam.rpsroyale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDELLOxUWC8QWvmmlHxmHnzLeT-pC8TdOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
